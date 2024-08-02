@@ -193,7 +193,7 @@ https://itfclasses.atlassian.net/jira/dashboards/10339/edit
 - Issue Escalation: Establish a clear escalation path for critical issues.
 - Feedback Loop: Ensure there is a mechanism for continuous feedback from testers to developers.
 
-**8. Conclusion**
+##  Conclusion
 
 - Despite the challenges posed by the initial project's termination, we are committed to delivering a high-quality product.
 - By focusing on critical functionalities, efficient resource management, and maintaining clear communication, we aim to complete the testing project successfully within the remaining timeframe.
