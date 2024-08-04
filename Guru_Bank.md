@@ -94,17 +94,15 @@ Scheduling and Estimation:
 
 ### 1.1.6 Evaluating entry criteria
 - The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
-https://itfclasses.atlassian.net/projects/TMTA20AP?selectedItem=com.thed.zephyr.je__test-metric-project-level
+
 ![test exec](https://github.com/kilegna/IT-Factory-Project/assets/164054690/131b40fa-5b81-466a-9ce6-627b97b37587)
 
 ### 1.2 Test Analysis 
 **The following test conditions were found: **
-https://itfclasses.atlassian.net/jira/software/c/projects/TMTA20AP/boards/315?issueParent=18638%2C18639&issueType=10005
 ![Desktop Screenshot 2024 07 03 - 03 59 12 97](https://github.com/kilegna/IT-Factory-Project/assets/164054690/9ac37a18-b4d5-4b54-9c0e-f7f87942919f)
 
 ### 1.3 Test Design
 - Functional test cases were created in Zephyr Squad based on the analysis of the specifications.
-- The test cases can be accessed here: https://itfclasses.atlassian.net/projects/TMTA20AP?selectedItem=com.thed.zephyr.je__test-cases
 
 ### 1.4 Test Implementation
 - The following elements are needed to be ready before the test execution phase begins:
@@ -118,15 +116,17 @@ ii)	Test script preparation
 5.	Test Execution Schedule and Resources
 
 ### 1.5. Test Execution 
-- Test cases are executed on the created test Cycle summary: https://itfclasses.atlassian.net/projects/TMTA20AP?selectedItem=com.thed.zephyr.je__cycle-summary
+- Test cases are executed on the created test Cycle summary:
 ![cycle](https://github.com/kilegna/IT-Factory-Project/assets/164054690/d6a8b9f0-500c-48f8-96ab-322e824cce79)
 
 - Bugs have been created based on the failed tests.
-The complete bug reports can be found here: https://itfclasses.atlassian.net/projects/TMTA20AP?selectedItem=com.thed.zephyr.je__test-metric-project-level
-![image](https://github.com/kilegna/IT-Factory-Project/assets/164054690/1838f0e4-3528-45f4-baa4-f5d30bced46c)
+The complete bug reports can be found here:
+![image](https://github.com/kilegna/IT-Factory-Project/assets/164054690/1838f0e4-3528-45f4-baa4-f5d30bced46c)![exec lista](https://github.com/user-attachments/assets/49db15a8-521c-4806-8150-cece806f00ad)
 
-- The following is a summary of the bugs that have been found:
-![issue sever](https://github.com/kilegna/IT-Factory-Project/assets/164054690/3ae392c5-55b4-4de8-966c-985fb7af9460)
+
+- The following it's an execution test cycle results:![Uploading exec lista.png…]()
+
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
@@ -135,7 +135,6 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 ![Matrice](https://github.com/kilegna/IT-Factory-Project/assets/164054690/8676ebdd-5c98-45f4-9c92-3dfd6f7a2c26)
 
 - Test execution chart was generated and can be found below. 
-https://itfclasses.atlassian.net/jira/dashboards/10339/edit
 ![Desktop Screenshot 2024 07 06 - 21 02 55 42](https://github.com/kilegna/IT-Factory-Project/assets/164054690/13024cbc-0b02-4087-9c36-fdec28ae15f9)
 
 - The final report shows a number of 12 tests and have 3 failed, 4  blocked and 2 pass
