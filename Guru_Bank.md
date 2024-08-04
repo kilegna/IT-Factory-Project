@@ -124,7 +124,7 @@ The complete bug reports can be found here:
 ![image](https://github.com/kilegna/IT-Factory-Project/assets/164054690/1838f0e4-3528-45f4-baa4-f5d30bced46c)![exec lista](https://github.com/user-attachments/assets/49db15a8-521c-4806-8150-cece806f00ad)
 
 
-- The following it's an execution test cycle results:![Uploading exec lista.png…]()
+- The following it's an execution test cycle results:
 
 
 
